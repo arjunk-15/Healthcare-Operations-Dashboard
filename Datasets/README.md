@@ -1,0 +1,1 @@
+This folder contains synthetic healthcare datasets used for the Healthcare Operations Dashboard project, including patient admissions, waiting times, bed occupancy, and staff schedules. The datasets support data cleaning, exploratory analysis, and Power BI visualizations.
